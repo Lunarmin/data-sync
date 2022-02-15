@@ -9,5 +9,4 @@ public class DataSyncApplication {
     public static void main(String[] args) {
         SpringApplication.run(DataSyncApplication.class, args);
     }
-
 }
